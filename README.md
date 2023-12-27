@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
-# Developed by :Naveen kumar.R
-# Register No:212223230139
+# Developed by :S.sasinthara
+# Register No:212223110045
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
